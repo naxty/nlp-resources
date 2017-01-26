@@ -11,4 +11,5 @@
 * Visualization
   * Wordcloud
   * t-SNE
+* CNN
 * RNN (Recurrent/Recursive Neural Networks)
