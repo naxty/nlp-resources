@@ -5,6 +5,8 @@
 * NLP Machine Learning Pipeline
   * Feature Extraction
   * Trial and Error
+  * Information Extraction
+  * Information Retrieval
 * Wordembeddings
 * Word2Vec
 * Doc2Vec
