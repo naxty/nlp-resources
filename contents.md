@@ -13,3 +13,5 @@
   * t-SNE
 * CNN
 * RNN (Recurrent/Recursive Neural Networks)
+* Hidden Markov Model
+* N-Gram
