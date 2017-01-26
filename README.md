@@ -6,7 +6,7 @@ Collection of resources for bachelor thesis.
 * [Lexical Units](https://www.datascience.com/blog/introduction-to-natural-language-processing-lexical-units-learn-data-science-tutorials)
 
 ## Deep Learning NLP
-
+* [Stanford Course](https://cs224d.stanford.edu/syllabus.html)
 ### Word Embebbeding
 * http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/
 
