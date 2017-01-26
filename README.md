@@ -19,4 +19,5 @@ Collection of resources for bachelor thesis.
 * [Implementation of Syntaxnet/ Wrapper](https://github.com/llSourcell/AI_Reader)
 * [Tensorflow](https://github.com/tensorflow/models/tree/master/syntaxnet)
 
-
+### Chabots
+* [Unsupervised learning Seq2Seq Chatbots](https://chatbotsmagazine.com/unsupervised-deep-learning-for-vertical-conversational-chatbots-c66f21b1e0f#.ewpfa2hbz)
