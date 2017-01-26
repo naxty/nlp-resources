@@ -7,6 +7,7 @@ Collection of resources for bachelor thesis.
 
 ## Deep Learning NLP
 * [Stanford Course](https://cs224d.stanford.edu/syllabus.html)
+
 ### Word Embebbeding
 * http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/
 
