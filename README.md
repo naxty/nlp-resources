@@ -21,3 +21,6 @@ Collection of resources for bachelor thesis.
 
 ### Chabots
 * [Unsupervised learning Seq2Seq Chatbots](https://chatbotsmagazine.com/unsupervised-deep-learning-for-vertical-conversational-chatbots-c66f21b1e0f#.ewpfa2hbz)
+
+## Frameworks
+* [ChatterBot](https://github.com/gunthercox/ChatterBot)
