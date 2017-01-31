@@ -34,4 +34,5 @@ Collection of resources for bachelor thesis.
 
 # Blogs / Articles
 * [How Deep Learning and Recommender Systems make Chatbots useful and more Intelligent](https://chatbotslife.com/chatbots-make-useful-and-intelligent-bot-to-win-telegram-or-alexa-prize-abaefe839dee#.ei3ivbxmi)
-* [Ultimate Guide to Chatbots](https://medium.muz.li/the-ultimate-guide-to-chatbots-why-theyre-disrupting-ux-and-best-practices-for-building-345e2150b682#.mh40617nv)
+* [Disrupting UI](https://medium.muz.li/the-ultimate-guide-to-chatbots-why-theyre-disrupting-ux-and-best-practices-for-building-345e2150b682#.mh40617nv)
+* [Ultimate Guide to chabots /tf](https://chatbotslife.com/ultimate-guide-to-leveraging-nlp-machine-learning-for-you-chatbot-531ff2dd870c#.l92dcrhks)
