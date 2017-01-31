@@ -31,5 +31,6 @@ Collection of resources for bachelor thesis.
 
 # Datasets
 * [Twitter stream sort by year](https://archive.org/details/twitterstream?sort=-publicdate)
+
 # Blogs / Articles
 * [How Deep Learning and Recommender Systems make Chatbots useful and more Intelligent](https://chatbotslife.com/chatbots-make-useful-and-intelligent-bot-to-win-telegram-or-alexa-prize-abaefe839dee#.ei3ivbxmi)
