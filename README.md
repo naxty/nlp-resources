@@ -12,6 +12,7 @@ Collection of resources for bachelor thesis.
 
 ### Word Embebbeding
 * http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/
+* [Gensim Word2Vec Tutorial](http://textminingonline.com/getting-started-with-word2vec-and-glove-in-python)
 
 ### Web Search
 * https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/wsdm2015.v3.pdf
