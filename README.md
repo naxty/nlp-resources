@@ -6,6 +6,9 @@ Collection of resources for bachelor thesis.
 * [Lexical Units](https://www.datascience.com/blog/introduction-to-natural-language-processing-lexical-units-learn-data-science-tutorials)
 * [Extracting Chatbot Knowledge from Online Discussion Forums](http://www.ijcai.org/Proceedings/07/Papers/066.pdf)
 
+## Neural Networks
+* [Machine Learning Crash Course](https://ml.berkeley.edu/blog/2017/02/04/tutorial-3/)
+
 ## Deep Learning NLP
 * [Stanford Course](https://cs224d.stanford.edu/syllabus.html)
 * [ACL 2012 + NAACL 2013 Tutorial: Deep Learning for NLP](http://www.socher.org/index.php/DeepLearningTutorial/DeepLearningTutorial)
