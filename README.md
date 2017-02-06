@@ -27,6 +27,7 @@ Collection of resources for bachelor thesis.
 
 ### Chabots
 * [Unsupervised learning Seq2Seq Chatbots](https://chatbotsmagazine.com/unsupervised-deep-learning-for-vertical-conversational-chatbots-c66f21b1e0f#.ewpfa2hbz)
+* [Ultimate Guide](https://chatbotslife.com/ultimate-guide-to-leveraging-nlp-machine-learning-for-you-chatbot-531ff2dd870c#.iownec9nq)
 
 ### Generating Text
 * [A Neural Network Approach to Context-Sensitive Generation of Conversational Responses](http://www.aclweb.org/anthology/N15-1020)
