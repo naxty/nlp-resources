@@ -5,6 +5,7 @@ Collection of resources for bachelor thesis.
 ## NLP Resource
 * [Lexical Units](https://www.datascience.com/blog/introduction-to-natural-language-processing-lexical-units-learn-data-science-tutorials)
 * [Extracting Chatbot Knowledge from Online Discussion Forums](http://www.ijcai.org/Proceedings/07/Papers/066.pdf)
+* [Simple NLP for chatbots](https://medium.freecodecamp.com/creating-a-chat-bot-42861e6a2acd#.egdvc89e2)
 
 ## Neural Networks
 * [Machine Learning Crash Course](https://ml.berkeley.edu/blog/2017/02/04/tutorial-3/)
