@@ -7,6 +7,9 @@ Collection of resources for bachelor thesis.
 * [Extracting Chatbot Knowledge from Online Discussion Forums](http://www.ijcai.org/Proceedings/07/Papers/066.pdf)
 * [Simple NLP for chatbots](https://medium.freecodecamp.com/creating-a-chat-bot-42861e6a2acd#.egdvc89e2)
 
+## Graph Based NLP
+* [Grakn Database for AI](https://blog.grakn.ai/chatbots-and-grakn-ai-67563c64cfde#.8ej1fb6tz)
+
 ## Neural Networks
 * [Machine Learning Crash Course](https://ml.berkeley.edu/blog/2017/02/04/tutorial-3/)
 
