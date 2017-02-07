@@ -32,7 +32,7 @@ Collection of resources for bachelor thesis.
 
 ### Generating Text
 * [A Neural Network Approach to Context-Sensitive Generation of Conversational Responses](http://www.aclweb.org/anthology/N15-1020)
-
+* [Simple Dialog System](https://github.com/cuayahuitl/SimpleDS)
 ## Frameworks
 * [ChatterBot](https://github.com/gunthercox/ChatterBot)
 
