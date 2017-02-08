@@ -14,6 +14,7 @@ Collection of resources for bachelor thesis.
 * [Machine Learning Crash Course](https://ml.berkeley.edu/blog/2017/02/04/tutorial-3/)
 
 ## Deep Learning NLP
+* [Oxford DL Course](https://github.com/oxford-cs-deepnlp-2017/lectures)
 * [Stanford Course](https://cs224d.stanford.edu/syllabus.html)
 * [ACL 2012 + NAACL 2013 Tutorial: Deep Learning for NLP](http://www.socher.org/index.php/DeepLearningTutorial/DeepLearningTutorial)
 
