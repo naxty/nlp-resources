@@ -1,5 +1,7 @@
 # Pipeline
 
+https://explosion.ai/blog/chatbot-node-js-spacy
+
 Als Eingabe der Pipeline wird ein Text übergeben.
 
 ## Spellcheck (Optional) (Preprocessing) (NLP)
