@@ -31,7 +31,7 @@ Je nachdem welcher Klassifizier die höchste Konfidenz hat, wird dadurch die eig
 
 ### Grakn Graph Knowledge Base
 
-Mit [GRAKN.AI(https://grakn.ai/) kann über ein Graph das Wissen repräsentiert werden.
+Mit [GRAKN.AI](https://grakn.ai/) kann über ein Graph das Wissen repräsentiert werden.
 
 ## Natural Language Generation
 
