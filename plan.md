@@ -25,6 +25,8 @@ Durch mehrere Klassifizier werden die Intents (was man eigentlich will) klassifi
 
 Mögliche Intents wären Telefonabfrage, Raumabfrage, Rolleabfrage, Verantwortungsabfrage, Skillabfrage
 
+http://blog.themusio.com/2016/07/18/musios-intent-classifier-2/
+
 ## Datenquellen
 
 Je nachdem welcher Klassifizier die höchste Konfidenz hat, wird dadurch die eigentliche Information anhand der Kombination von Entities und Intents gewählt.
