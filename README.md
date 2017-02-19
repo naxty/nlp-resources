@@ -1,6 +1,8 @@
 # Bachelor
 Collection of resources for bachelor thesis.
 
+## General Resource
+* [Introduction to AI](https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/chapter1.html)
 
 ## NLP Resource
 * [Lexical Units](https://www.datascience.com/blog/introduction-to-natural-language-processing-lexical-units-learn-data-science-tutorials)
