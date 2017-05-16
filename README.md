@@ -21,11 +21,13 @@ Collection of resources for bachelor thesis.
 * [ACL 2012 + NAACL 2013 Tutorial: Deep Learning for NLP](http://www.socher.org/index.php/DeepLearningTutorial/DeepLearningTutorial)
 
 ### Word Embeddings
+* [List about word2vec resources](http://mccormickml.com/2016/04/27/word2vec-resources/)
 * http://sebastianruder.com/word-embeddings-1/
 * http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/
 * [Gensim Word2Vec Tutorial](http://textminingonline.com/getting-started-with-word2vec-and-glove-in-python)
 * [Word2Vec Demystifying](http://www.deeplearningweekly.com/blog/demystifying-word2vec)
 * [Word Level Semantics](https://www.youtube.com/watch?v=DzaV6_D_dL4&list=PL613dYIGMXoZBtZhbyiBqb0QtgK6oJbpm&index=3)
+
 #### Embeddings Basics
 * [Firth, John R. "A synopsis of linguistic theory, 1930-1955." (1957): 1-32.](http://annabellelukin.edublogs.org/files/2013/08/Firth-JR-1962-A-Synopsis-of-Linguistic-Theory-wfihi5.pdf)
 * [Curran, James Richard. "From distributional to semantic similarity." (2004).](https://www.era.lib.ed.ac.uk/bitstream/handle/1842/563/IP030023.pdf?sequence=2&isAllowed=y)
