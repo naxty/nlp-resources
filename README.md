@@ -20,7 +20,7 @@ Collection of resources for bachelor thesis.
 * [Stanford Course](https://cs224d.stanford.edu/syllabus.html)
 * [ACL 2012 + NAACL 2013 Tutorial: Deep Learning for NLP](http://www.socher.org/index.php/DeepLearningTutorial/DeepLearningTutorial)
 
-### Word Embebbeding
+### Word Embeddings
 * http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/
 * [Gensim Word2Vec Tutorial](http://textminingonline.com/getting-started-with-word2vec-and-glove-in-python)
 * [Word2Vec Demystifying](http://www.deeplearningweekly.com/blog/demystifying-word2vec)
