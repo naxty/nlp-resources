@@ -21,6 +21,7 @@ Collection of resources for bachelor thesis.
 * [ACL 2012 + NAACL 2013 Tutorial: Deep Learning for NLP](http://www.socher.org/index.php/DeepLearningTutorial/DeepLearningTutorial)
 
 ### Word Embeddings
+* [Word2Vec Explained](https://www.youtube.com/watch?v=D-ekE-Wlcds)
 * [List about word2vec resources](http://mccormickml.com/2016/04/27/word2vec-resources/)
 * http://sebastianruder.com/word-embeddings-1/
 * http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/
