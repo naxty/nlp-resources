@@ -3,7 +3,7 @@ Collection of resources for bachelor thesis.
 
 ## General Resource
 * [Introduction to AI](https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/chapter1.html)
-
+* [Master DL Course](https://ndrplz.github.io/deep_learning_lectures/)
 ## NLP Resource
 * [Lexical Units](https://www.datascience.com/blog/introduction-to-natural-language-processing-lexical-units-learn-data-science-tutorials)
 * [Extracting Chatbot Knowledge from Online Discussion Forums](http://www.ijcai.org/Proceedings/07/Papers/066.pdf)
